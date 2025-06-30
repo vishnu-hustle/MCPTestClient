@@ -1,2 +1,1 @@
-# MCPTestClient
-Repository for MCP Test Client
+this is mcp code base
